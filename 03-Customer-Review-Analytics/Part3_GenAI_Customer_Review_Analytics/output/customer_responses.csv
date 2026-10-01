@@ -1,0 +1,61 @@
+Review No,Customer Review,Structured Analysis,AI Customer Reply,Status
+1,Absolutely wonderful - silky and sexy and comfortable,"{
+  ""aspects"": [
+    {
+      ""aspect"": ""quality"",
+      ""sentiment"": ""positive"",
+      ""action"": ""maintain silky fabric quality""
+    },
+    {
+      ""aspect"": ""design/style"",
+      ""sentiment"": ""positive"",
+      ""action"": ""keep sexy design details""
+    },
+    {
+      ""aspect"": ""comfort"",
+      ""sentiment"": ""positive"",
+      ""action"": ""preserve comfortable wear experience""
+    }
+  ],
+  ""overall_sentiment"": ""positive""
+}",Thank you so much for sharing your wonderful feedback with us! We are thrilled to hear that you love the silky fabric quality and the sexy design details of your new piece. We will certainly maintain these standards to ensure your wear experience remains wonderfully comfortable.,Success
+2,"Love this dress!  it's sooo pretty.  i happened to find it in a store, and i'm glad i did bc i never would have ordered it online bc it's petite.  i bought a petite and am 5'8"".  i love the length on me- hits just a little below the knee.  would definitely be a true midi on someone who is truly petite.","{
+  ""aspects"": [
+    {
+      ""aspect"": ""design/style"",
+      ""sentiment"": ""positive"",
+      ""action"": ""maintain pretty aesthetic design details""
+    },
+    {
+      ""aspect"": ""size/fit"",
+      ""sentiment"": ""positive"",
+      ""action"": ""clarify petite length specifications online""
+    }
+  ],
+  ""overall_sentiment"": ""positive""
+}","Thank you so much for sharing your feedback and for your love of the dress's pretty design! We are thrilled to hear that the petite length worked so well for your 5'8"" height, hitting just below the knee as a lovely midi. We appreciate your helpful insight and will work on clarifying our petite length specifications online so other tall shoppers can easily find their perfect fit too.",Success
+3,"I had such high hopes for this dress and really wanted it to work for me. i initially ordered the petite small (my usual size) but i found this to be outrageously small. so small in fact that i could not zip it up! i reordered it in petite medium, which was just ok. overall, the top half was comfortable and fit nicely, but the bottom half had a very tight under layer and several somewhat cheap (net) over layers. imo, a major design flaw was the net over layer sewn directly into the zipper - it c","{
+  ""aspects"": [
+    {
+      ""aspect"": ""size/fit"",
+      ""sentiment"": ""negative"",
+      ""action"": ""Revise sizing measurements for petites""
+    },
+    {
+      ""aspect"": ""comfort"",
+      ""sentiment"": ""positive"",
+      ""action"": ""Maintain comfort in top half""
+    },
+    {
+      ""aspect"": ""quality"",
+      ""sentiment"": ""negative"",
+      ""action"": ""Upgrade quality of net layers""
+    },
+    {
+      ""aspect"": ""design/style"",
+      ""sentiment"": ""negative"",
+      ""action"": ""Fix net layer zipper placement""
+    }
+  ],
+  ""overall_sentiment"": ""negative""
+}","Thank you for sharing such detailed feedback about your experience with our petite dress. We sincerely apologize for the sizing inconsistencies that required you to exchange the petite small, as well as the frustrating design flaw with the net overlayer getting caught in the zipper and the cheap feel of those layers. On the positive note, we are glad to hear that you found the top half to be comfortable and nicely fitted. Please rest assured that we are taking your input seriously to revise our petite sizing measurements, upgrade the quality of the net material, and fix the zipper placement in future designs.",Success

@@ -1,0 +1,76 @@
+Prompt,Valid JSON,Label,Confidence,Reason,Raw Response,Review No,Review
+Zero-shot,True,positive,high,"The review uses strongly positive descriptors like wonderful, silky, sexy, and comfortable.","{
+  ""label"": ""positive"",
+  ""confidence"": ""high"",
+  ""reason"": ""The review uses strongly positive descriptors like wonderful, silky, sexy, and comfortable.""
+}",1,Absolutely wonderful - silky and sexy and comfortable
+Few-shot,True,positive,high,Customer expresses strong satisfaction using enthusiastic positive descriptors.,"{
+  ""label"": ""positive"",
+  ""confidence"": ""high"",
+  ""reason"": ""Customer expresses strong satisfaction using enthusiastic positive descriptors.""
+}",1,Absolutely wonderful - silky and sexy and comfortable
+Role-based,True,positive,high,"The customer uses enthusiastic words like 'wonderful', 'silky', 'sexy', and 'comfortable' to describe the product.","{
+  ""label"": ""positive"",
+  ""confidence"": ""high"",
+  ""reason"": ""The customer uses enthusiastic words like 'wonderful', 'silky', 'sexy', and 'comfortable' to describe the product.""
+}",1,Absolutely wonderful - silky and sexy and comfortable
+Zero-shot,True,positive,high,"The customer expresses strong enthusiasm for the dress, using words like 'Love' and 'sooo pretty'.","{
+  ""label"": ""positive"",
+  ""confidence"": ""high"",
+  ""reason"": ""The customer expresses strong enthusiasm for the dress, using words like 'Love' and 'sooo pretty'.""
+}",2,"Love this dress!  it's sooo pretty.  i happened to find it in a store, and i'm glad i did bc i never would have ordered it online bc it's petite.  i bought a petite and am 5'8"".  i love the length on me- hits just a little below the knee.  would definitely be a true midi on someone who is truly petite."
+Few-shot,True,positive,high,Customer expresses strong satisfaction and loves the dress despite its petite sizing.,"{
+  ""label"": ""positive"",
+  ""confidence"": ""high"",
+  ""reason"": ""Customer expresses strong satisfaction and loves the dress despite its petite sizing.""
+}",2,"Love this dress!  it's sooo pretty.  i happened to find it in a store, and i'm glad i did bc i never would have ordered it online bc it's petite.  i bought a petite and am 5'8"".  i love the length on me- hits just a little below the knee.  would definitely be a true midi on someone who is truly petite."
+Role-based,True,positive,high,"The customer expresses strong satisfaction, stating they 'Love this dress!' and that it is 'sooo pretty'.","{
+  ""label"": ""positive"",
+  ""confidence"": ""high"",
+  ""reason"": ""The customer expresses strong satisfaction, stating they 'Love this dress!' and that it is 'sooo pretty'.""
+}",2,"Love this dress!  it's sooo pretty.  i happened to find it in a store, and i'm glad i did bc i never would have ordered it online bc it's petite.  i bought a petite and am 5'8"".  i love the length on me- hits just a little below the knee.  would definitely be a true midi on someone who is truly petite."
+Zero-shot,True,negative,high,"The reviewer experienced significant sizing issues, found parts of the dress cheap, and highlighted a major design flaw.","{
+  ""label"": ""negative"",
+  ""confidence"": ""high"",
+  ""reason"": ""The reviewer experienced significant sizing issues, found parts of the dress cheap, and highlighted a major design flaw.""
+}",3,"I had such high hopes for this dress and really wanted it to work for me. i initially ordered the petite small (my usual size) but i found this to be outrageously small. so small in fact that i could not zip it up! i reordered it in petite medium, which was just ok. overall, the top half was comfortable and fit nicely, but the bottom half had a very tight under layer and several somewhat cheap (net) over layers. imo, a major design flaw was the net over layer sewn directly into the zipper - it c"
+Few-shot,True,negative,high,"Customer experienced sizing issues, cheap materials, and a major design flaw.","{
+  ""label"": ""negative"",
+  ""confidence"": ""high"",
+  ""reason"": ""Customer experienced sizing issues, cheap materials, and a major design flaw.""
+}",3,"I had such high hopes for this dress and really wanted it to work for me. i initially ordered the petite small (my usual size) but i found this to be outrageously small. so small in fact that i could not zip it up! i reordered it in petite medium, which was just ok. overall, the top half was comfortable and fit nicely, but the bottom half had a very tight under layer and several somewhat cheap (net) over layers. imo, a major design flaw was the net over layer sewn directly into the zipper - it c"
+Role-based,True,negative,high,"The customer describes the dress as outrageously small, mentions sizing issues requiring a reorder, and highlights a major design flaw with the net over layer caught in the zipper.","{
+  ""label"": ""negative"",
+  ""confidence"": ""high"",
+  ""reason"": ""The customer describes the dress as outrageously small, mentions sizing issues requiring a reorder, and highlights a major design flaw with the net over layer caught in the zipper.""
+}",3,"I had such high hopes for this dress and really wanted it to work for me. i initially ordered the petite small (my usual size) but i found this to be outrageously small. so small in fact that i could not zip it up! i reordered it in petite medium, which was just ok. overall, the top half was comfortable and fit nicely, but the bottom half had a very tight under layer and several somewhat cheap (net) over layers. imo, a major design flaw was the net over layer sewn directly into the zipper - it c"
+Zero-shot,True,positive,high,"The customer expresses strong enthusiasm with words like 'love', 'fun', 'fabulous', and mentions receiving great compliments.","{
+  ""label"": ""positive"",
+  ""confidence"": ""high"",
+  ""reason"": ""The customer expresses strong enthusiasm with words like 'love', 'fun', 'fabulous', and mentions receiving great compliments.""
+}",4,"I love, love, love this jumpsuit. it's fun, flirty, and fabulous! every time i wear it, i get nothing but great compliments!"
+Few-shot,True,positive,high,Customer expresses extreme satisfaction and receives many compliments while wearing the product.,"{
+  ""label"": ""positive"",
+  ""confidence"": ""high"",
+  ""reason"": ""Customer expresses extreme satisfaction and receives many compliments while wearing the product.""
+}",4,"I love, love, love this jumpsuit. it's fun, flirty, and fabulous! every time i wear it, i get nothing but great compliments!"
+Role-based,True,positive,high,"The customer expresses strong enthusiasm by stating they 'love, love, love' the jumpsuit and receive great compliments every time they wear it.","{
+  ""label"": ""positive"",
+  ""confidence"": ""high"",
+  ""reason"": ""The customer expresses strong enthusiasm by stating they 'love, love, love' the jumpsuit and receive great compliments every time they wear it.""
+}",4,"I love, love, love this jumpsuit. it's fun, flirty, and fabulous! every time i wear it, i get nothing but great compliments!"
+Zero-shot,True,positive,high,"The reviewer expresses strong satisfaction, praising the fit, length, and versatility, and concludes with an enthusiastic 'love this shirt!!!'.","{
+  ""label"": ""positive"",
+  ""confidence"": ""high"",
+  ""reason"": ""The reviewer expresses strong satisfaction, praising the fit, length, and versatility, and concludes with an enthusiastic 'love this shirt!!!'.""
+}",5,This shirt is very flattering to all due to the adjustable front tie. it is the perfect length to wear with leggings and it is sleeveless so it pairs well with any cardigan. love this shirt!!!
+Few-shot,True,positive,high,"Customer expresses strong satisfaction with the shirt's fit, length, versatility, and explicitly states they love it.","{
+  ""label"": ""positive"",
+  ""confidence"": ""high"",
+  ""reason"": ""Customer expresses strong satisfaction with the shirt's fit, length, versatility, and explicitly states they love it.""
+}",5,This shirt is very flattering to all due to the adjustable front tie. it is the perfect length to wear with leggings and it is sleeveless so it pairs well with any cardigan. love this shirt!!!
+Role-based,True,positive,high,"The customer describes the shirt as very flattering, of perfect length, and explicitly states 'love this shirt!!!'.","{
+  ""label"": ""positive"",
+  ""confidence"": ""high"",
+  ""reason"": ""The customer describes the shirt as very flattering, of perfect length, and explicitly states 'love this shirt!!!'.""
+}",5,This shirt is very flattering to all due to the adjustable front tie. it is the perfect length to wear with leggings and it is sleeveless so it pairs well with any cardigan. love this shirt!!!
